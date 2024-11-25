@@ -239,5 +239,9 @@ fixtures = [
             ["custom", "=", "1"]
         ]
     },
-    "Sports"
+    "Sports",
+    {
+        "doctype": "User",
+       "filters": [["first_name", "in", ["ridham"]]]
+    }
 ]
