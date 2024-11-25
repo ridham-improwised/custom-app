@@ -1,1 +1,13 @@
-[]
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Sports",
+  "enabled": 1,
+  "modified": "2024-11-25 17:57:50.748632",
+  "module": "custom app",
+  "name": "Sports Client Script",
+  "script": "frappe.ui.form.on('Sports', {\n\trefresh(frm) {\n\t\tconsole.log(\"Sports Gor Printed\")\n\t}\n})",
+  "view": "Form"
+ }
+]
