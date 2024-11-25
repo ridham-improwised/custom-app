@@ -215,3 +215,29 @@ app_license = "MIT"
 # auth_hooks = [
 #	"custom_app.auth.validate"
 # ]
+
+fixtures = [
+    "Custom Field",
+    "Property Setter",
+    "Client Script",
+    "Workflow",
+    "Workflow State",
+    "Workflow Action",
+    "Custom DocPerm",
+    # "Print Format",
+    {
+        "doctype": "Print Format",
+       "filters": [["name", "in", ["Sports Print Format"]]]
+    },
+    "Report",
+    "Role",
+    "Print Style",
+    "Server Script",
+    {
+        "doctype": "DocType",
+        "filters": [
+            ["custom", "=", "1"]
+        ]
+    },
+    "Sports"
+]
