@@ -109,7 +109,7 @@
   "make_attachments_public": 0,
   "max_attachments": 0,
   "menu_index": null,
-  "migration_hash": null,
+  "migration_hash": "949ea41c48eb21feb323b03dd3ec99ff",
   "modified": "2024-11-25 16:25:35.585339",
   "module": "custom app",
   "name": "Sports",

@@ -5,5 +5,12 @@
   "modified": "2024-11-25 16:33:07.204077",
   "name": "sport-cricket",
   "sports_name": "Cricket"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Sports",
+  "modified": "2024-11-26 16:05:25.526738",
+  "name": "sport-football",
+  "sports_name": "football"
  }
 ]
